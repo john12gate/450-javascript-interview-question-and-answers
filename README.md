@@ -5,11 +5,9 @@
 ---
 
 <div>
-<p align="center">
-  <a href=https://react.gg/?s=rjsiq>
-    <img src="https://yandex.com/images/search?img_url=https%3A%2F%2Fcamo.githubusercontent.com%2F26039bc8d348cd17e2d45ed19b937bd8226971b119dc6d1be71a8888f7489fd2%2F68747470733a2f2f6d65646961302e67697068792e636f6d2f6d656469612f6c6e377a32655772696951416c6c6656636e2f736f757263652e676966&itype=gifan&lr=20742&pos=0&rpt=simage&text=Javascript" alt="React interview" width="100%">
-  </a>
-</p>
+  <p align="center">
+    <img src="https://i.stack.imgur.com/qVAx8.gif" alt="React interview" width="100%">
+  </p>
 </div>
 
 ---
@@ -28,7 +26,7 @@ Whether you're an experienced developer looking to refine your JavaScript skills
 
 ---
 
-**Note:** This repository is specific to ReactJS. Please check [Javascript Interview questions](https://github.com/john12gate/300-interview-questions-on-react/) for core javascript questions.
+**Note:** This repository is specific to JavaScript. Please check [React Interview questions](https://github.com/john12gate/300-interview-questions-on-react/) for core React questions.
 
 ### Table of Contents
 
